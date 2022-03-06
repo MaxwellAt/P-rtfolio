@@ -341,7 +341,7 @@ pc {
     letter-spacing: -0.045em;
     text-transform: capitalize;
     margin-top: 1em;
-    color: #000000;
+    color: rgba(185, 188, 189, 1);
   }
   .site{
     overflow: hidden !important;
