@@ -331,6 +331,18 @@ pc {
     color: #FFFFFF;
 
   }
+  .tituloDoisCell{
+    font-family: Sail;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.3em;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -0.045em;
+    text-transform: capitalize;
+    margin-top: 1em;
+    color: #000000;
+  }
   .site{
     overflow: hidden !important;
     height: 10em;
