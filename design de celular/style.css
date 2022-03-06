@@ -1,0 +1,58 @@
+/*Alterações Para celular*/
+body{
+    margin: 0;
+    flex-direction: column !important;
+    width: 100% !important;
+}
+header{
+    display: flex;
+    height: min-content !important;
+    width: 100% !important;
+    align-items: center;
+    flex-direction: column;
+}
+h2{
+    font-family: Sail;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70%;
+    line-height: 20px;
+}
+.sectionUm{
+    width: 60% !important;
+    height: min-content !important;
+    overflow: hidden !important;
+}
+.TituloUm{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 800px;
+    height: min-content;
+    font-family: Sail;
+    font-size: 28px !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    line-height: 55px !important;
+    letter-spacing: 0em !important;
+}
+.texto{
+    font-family: Sail;
+    font-size: 20px !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    line-height: 23px !important;
+    letter-spacing: 0em !important;
+    text-align: left !important;
+}
+img{
+    position: absolute;
+    top: 270px !important;
+    right: 10% !important;
+    width: 70px !important;
+    height: 70px !important;
+
+    border: 5px solid #000000 !important;
+    box-shadow: 0px 0px 32px #082C3A !important;
+    border-radius: 41px !important;
+
+}
